@@ -1,0 +1,111 @@
+{
+  "contractName": "SimpleSmartContract",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.8+commit.23d335f2\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/C/Users/keval/Desktop/project/pet-shop/contracts/SimpleSmartContract.sol\":\"SimpleSmartContract\"},\"evmVersion\":\"petersburg\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/C/Users/keval/Desktop/project/pet-shop/contracts/SimpleSmartContract.sol\":{\"keccak256\":\"0x022b0c40cfe11775dc8504c5a2b5c490cac40e79e05f570b916987b96e595805\",\"urls\":[\"bzzr://75c99fda1c79220fc7490a70cc6f1a50037c9716f6414e0bb701f379c08201ac\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3fe6080604052600080fdfea165627a7a7230582084ba69d8ef367c658aff64e84a39e3cf12a05b2c9109b4b7450cbb7bd2717a910029",
+  "deployedBytecode": "0x6080604052600080fdfea165627a7a7230582084ba69d8ef367c658aff64e84a39e3cf12a05b2c9109b4b7450cbb7bd2717a910029",
+  "sourceMap": "27:30:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:30:1;;;;;;;",
+  "deployedSourceMap": "27:30:1:-;;;;;",
+  "source": "pragma solidity ^0.5.1;\r\n\r\ncontract SimpleSmartContract{}",
+  "sourcePath": "C:/Users/keval/Desktop/project/pet-shop/contracts/SimpleSmartContract.sol",
+  "ast": {
+    "absolutePath": "/C/Users/keval/Desktop/project/pet-shop/contracts/SimpleSmartContract.sol",
+    "exportedSymbols": {
+      "SimpleSmartContract": [
+        59
+      ]
+    },
+    "id": 60,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 58,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".1"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 59,
+        "linearizedBaseContracts": [
+          59
+        ],
+        "name": "SimpleSmartContract",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 60,
+        "src": "27:30:1"
+      }
+    ],
+    "src": "0:57:1"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/keval/Desktop/project/pet-shop/contracts/SimpleSmartContract.sol",
+    "exportedSymbols": {
+      "SimpleSmartContract": [
+        59
+      ]
+    },
+    "id": 60,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 58,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".1"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 59,
+        "linearizedBaseContracts": [
+          59
+        ],
+        "name": "SimpleSmartContract",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 60,
+        "src": "27:30:1"
+      }
+    ],
+    "src": "0:57:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.8+commit.23d335f2.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0xC485ED9bd8c97De0FA3BF4Edba4336f097B199e3",
+      "transactionHash": "0xc36ac0a694774444e781b05038beac01c3a69f6c3861a85cea979ca809448a8d"
+    }
+  },
+  "schemaVersion": "3.0.14",
+  "updatedAt": "2019-09-08T08:32:40.962Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
